@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c7ed823-5a47-40e3-b245-3d8c358fec3f" name="Changes" comment="add new file data_ver3" />
+    <list default="true" id="1c7ed823-5a47-40e3-b245-3d8c358fec3f" name="Changes" comment="update data ver3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +59,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\brian\PycharmProjects\PythonProject1\Files" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\brian\PycharmProjects\PythonProject1\Files" />
       <recent name="C:\Users\brian\PycharmProjects\PythonProject1\Files\.ipynb_checkpoints" />
@@ -85,7 +88,7 @@
       <workItem from="1754734731157" duration="1256000" />
       <workItem from="1754779159700" duration="730000" />
       <workItem from="1754827162697" duration="2247000" />
-      <workItem from="1754941060233" duration="697000" />
+      <workItem from="1754941060233" duration="1312000" />
     </task>
     <task id="LOCAL-00001" summary="rename untitled.ipynb to data.ipynb">
       <option name="closed" value="true" />
@@ -183,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754945390316</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update data ver3">
+      <option name="closed" value="true" />
+      <created>1754950291834</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1754950291834</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,7 +230,8 @@
     <MESSAGE value="delete and rename new corrected file" />
     <MESSAGE value="update" />
     <MESSAGE value="add new file data_ver3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new file data_ver3" />
+    <MESSAGE value="update data ver3" />
+    <option name="LAST_COMMIT_MESSAGE" value="update data ver3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$Data_training.coverage" NAME="Data training Coverage Results" MODIFIED="1754336212227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
