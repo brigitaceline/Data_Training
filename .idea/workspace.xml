@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c7ed823-5a47-40e3-b245-3d8c358fec3f" name="Changes" comment="new notebook with matlab algorithm data_ver4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1c7ed823-5a47-40e3-b245-3d8c358fec3f" name="Changes" comment="new notebook ver6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +49,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/brian/PycharmProjects/PythonProject1/Files",
+    "last_opened_file_path": "C:/Users/brian/PycharmProjects/PythonProject1/Files/.ipynb_checkpoints",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,6 +61,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\brian\PycharmProjects\PythonProject1\Files\.ipynb_checkpoints" />
       <recent name="C:\Users\brian\PycharmProjects\PythonProject1\Files" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -92,6 +91,7 @@
       <workItem from="1754779159700" duration="730000" />
       <workItem from="1754827162697" duration="2247000" />
       <workItem from="1754941060233" duration="2711000" />
+      <workItem from="1755016102053" duration="798000" />
     </task>
     <task id="LOCAL-00001" summary="rename untitled.ipynb to data.ipynb">
       <option name="closed" value="true" />
@@ -221,7 +221,31 @@
       <option name="project" value="LOCAL" />
       <updated>1754954906563</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="new notebook with layer and neuron various option">
+      <option name="closed" value="true" />
+      <created>1755016194885</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1755016194885</updated>
+    </task>
+    <task id="LOCAL-00018" summary="moved to files notebook ver5">
+      <option name="closed" value="true" />
+      <created>1755016260707</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1755016260707</updated>
+    </task>
+    <task id="LOCAL-00019" summary="new notebook ver6">
+      <option name="closed" value="true" />
+      <created>1755035247853</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1755035247853</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +285,10 @@
     <MESSAGE value="dalete data ver3 and create a new one" />
     <MESSAGE value="new notebook file ver3" />
     <MESSAGE value="new notebook with matlab algorithm data_ver4" />
-    <option name="LAST_COMMIT_MESSAGE" value="new notebook with matlab algorithm data_ver4" />
+    <MESSAGE value="new notebook with layer and neuron various option" />
+    <MESSAGE value="moved to files notebook ver5" />
+    <MESSAGE value="new notebook ver6" />
+    <option name="LAST_COMMIT_MESSAGE" value="new notebook ver6" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$Data_training.coverage" NAME="Data training Coverage Results" MODIFIED="1754336212227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
