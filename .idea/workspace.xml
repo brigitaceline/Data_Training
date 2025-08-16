@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c7ed823-5a47-40e3-b245-3d8c358fec3f" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/data_ver6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files/data_ver6.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="1c7ed823-5a47-40e3-b245-3d8c358fec3f" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,12 +27,12 @@
     &quot;assignee&quot;: &quot;brigitaceline&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/brigitaceline/Data_Training.git&quot;,
-    &quot;accountId&quot;: &quot;4b43c0c3-cbf3-4899-ba17-1b55b4f83cdc&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/brigitaceline/Data_Training.git",
+    "accountId": "f53cf2bc-ed85-4336-9117-4c4f8c1e14e9"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -44,26 +41,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Data training.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/brian/PycharmProjects/PythonProject1/Files/.ipynb_checkpoints&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Data training.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/brian/PycharmProjects/Data_Training/Files",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\brian\PycharmProjects\Data_Training\Files" />
       <recent name="C:\Users\brian\PycharmProjects\PythonProject1\Files\.ipynb_checkpoints" />
       <recent name="C:\Users\brian\PycharmProjects\PythonProject1\Files" />
     </key>
@@ -96,6 +95,7 @@
       <workItem from="1754941060233" duration="2711000" />
       <workItem from="1755016102053" duration="2008000" />
       <workItem from="1755036733207" duration="1814000" />
+      <workItem from="1755107263818" duration="4915000" />
     </task>
     <task id="LOCAL-00001" summary="rename untitled.ipynb to data.ipynb">
       <option name="closed" value="true" />
@@ -257,7 +257,63 @@
       <option name="project" value="LOCAL" />
       <updated>1755036106850</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="add ver6">
+      <option name="closed" value="true" />
+      <created>1755116901073</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1755116901073</updated>
+    </task>
+    <task id="LOCAL-00022" summary="update and add ver7">
+      <option name="closed" value="true" />
+      <created>1755119812715</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1755119812715</updated>
+    </task>
+    <task id="LOCAL-00023" summary="update and add ver3 with svm">
+      <option name="closed" value="true" />
+      <created>1755121499609</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1755121499609</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add ver2 with svm">
+      <option name="closed" value="true" />
+      <created>1755121585706</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1755121585706</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add ver2 with svm and crossvalidation 5 fold">
+      <option name="closed" value="true" />
+      <created>1755123876760</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1755123876760</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add ver2 with svm and crossvalidation 5 fold second second version">
+      <option name="closed" value="true" />
+      <created>1755125795267</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1755125795267</updated>
+    </task>
+    <task id="LOCAL-00027" summary="update">
+      <option name="closed" value="true" />
+      <created>1755126935563</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1755126935563</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,6 +355,12 @@
     <MESSAGE value="new notebook with layer and neuron various option" />
     <MESSAGE value="moved to files notebook ver5" />
     <MESSAGE value="new notebook ver6" />
+    <MESSAGE value="add ver6" />
+    <MESSAGE value="update and add ver7" />
+    <MESSAGE value="update and add ver3 with svm" />
+    <MESSAGE value="add ver2 with svm" />
+    <MESSAGE value="add ver2 with svm and crossvalidation 5 fold" />
+    <MESSAGE value="add ver2 with svm and crossvalidation 5 fold second second version" />
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
