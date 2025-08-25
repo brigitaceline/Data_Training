@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c7ed823-5a47-40e3-b245-3d8c358fec3f" name="Changes" comment="update and new data ver 11" />
+    <list default="true" id="1c7ed823-5a47-40e3-b245-3d8c358fec3f" name="Changes" comment="update ver 11">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/data_ver11_ver8_angepasst_zu _elli8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files/data_ver11_ver8_angepasst_zu _elli8.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,25 +44,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Data training.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/brian/PycharmProjects/Data_Training&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Data training.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/brian/PycharmProjects/Data_Training/Files",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\brian\PycharmProjects\Data_Training\Files" />
@@ -67,6 +70,7 @@
       <recent name="C:\Users\brian\PycharmProjects\PythonProject1\Files" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\brian\PycharmProjects\Data_Training\Files" />
       <recent name="C:\Users\brian\PycharmProjects\PythonProject1\Files" />
       <recent name="C:\Users\brian\PycharmProjects\PythonProject1\Files\.ipynb_checkpoints" />
     </key>
@@ -98,7 +102,7 @@
       <workItem from="1755107263818" duration="4915000" />
       <workItem from="1755335061038" duration="2397000" />
       <workItem from="1755427809098" duration="3608000" />
-      <workItem from="1756149820941" duration="637000" />
+      <workItem from="1756149820941" duration="1710000" />
     </task>
     <task id="LOCAL-00001" summary="rename untitled.ipynb to data.ipynb">
       <option name="closed" value="true" />
@@ -388,7 +392,31 @@
       <option name="project" value="LOCAL" />
       <updated>1756150457387</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="update">
+      <option name="closed" value="true" />
+      <created>1756150494357</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1756150494357</updated>
+    </task>
+    <task id="LOCAL-00038" summary="update move ver 11">
+      <option name="closed" value="true" />
+      <created>1756150523255</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1756150523255</updated>
+    </task>
+    <task id="LOCAL-00039" summary="update ver 11">
+      <option name="closed" value="true" />
+      <created>1756151076902</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1756151076902</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,8 +444,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new data" />
-    <MESSAGE value="update and add duplicate data" />
     <MESSAGE value="add new modified version data_v2" />
     <MESSAGE value="update data" />
     <MESSAGE value="delete and rename new corrected file" />
@@ -439,9 +465,11 @@
     <MESSAGE value="new notebook ver10" />
     <MESSAGE value="update ver10" />
     <MESSAGE value="update ver8,9,10" />
-    <MESSAGE value="update" />
     <MESSAGE value="update and new data ver 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="update and new data ver 11" />
+    <MESSAGE value="update" />
+    <MESSAGE value="update move ver 11" />
+    <MESSAGE value="update ver 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="update ver 11" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$Data_training.coverage" NAME="Data training Coverage Results" MODIFIED="1754336212227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
