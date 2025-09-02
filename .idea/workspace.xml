@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c7ed823-5a47-40e3-b245-3d8c358fec3f" name="Changes" comment="update Mn Mw">
+    <list default="true" id="1c7ed823-5a47-40e3-b245-3d8c358fec3f" name="Changes" comment="upload and update Mn Mw">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/Mn_Mw_double_Output_Simplified.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Mn_Mw_double_Output_Simplified.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/Mn_Mw_double_Output.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Mn_Mw_double_Output.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +104,7 @@
       <workItem from="1755427809098" duration="3608000" />
       <workItem from="1756149820941" duration="2354000" />
       <workItem from="1756744599693" duration="2310000" />
-      <workItem from="1756813109150" duration="1588000" />
+      <workItem from="1756813109150" duration="2543000" />
     </task>
     <task id="LOCAL-00001" summary="rename untitled.ipynb to data.ipynb">
       <option name="closed" value="true" />
@@ -458,7 +458,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756837734020</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="upload and update Mn Mw">
+      <option name="closed" value="true" />
+      <created>1756838466637</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1756838466637</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -486,7 +494,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update data ver3" />
     <MESSAGE value="dalete data ver3 and create a new one" />
     <MESSAGE value="new notebook file ver3" />
     <MESSAGE value="new notebook with matlab algorithm data_ver4" />
@@ -511,7 +518,8 @@
     <MESSAGE value="delete some notebook files" />
     <MESSAGE value="upload new notebook" />
     <MESSAGE value="update Mn Mw" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Mn Mw" />
+    <MESSAGE value="upload and update Mn Mw" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload and update Mn Mw" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$Data_training.coverage" NAME="Data training Coverage Results" MODIFIED="1754336212227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
