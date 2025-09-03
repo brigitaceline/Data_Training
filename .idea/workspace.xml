@@ -102,15 +102,7 @@
       <workItem from="1756149820941" duration="2354000" />
       <workItem from="1756744599693" duration="2310000" />
       <workItem from="1756813109150" duration="2567000" />
-      <workItem from="1756896490705" duration="659000" />
-    </task>
-    <task id="LOCAL-00001" summary="rename untitled.ipynb to data.ipynb">
-      <option name="closed" value="true" />
-      <created>1754340533897</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1754340533897</updated>
+      <workItem from="1756896490705" duration="1262000" />
     </task>
     <task id="LOCAL-00002" summary="new data">
       <option name="closed" value="true" />
@@ -496,7 +488,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756897153831</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="update">
+      <option name="closed" value="true" />
+      <created>1756914060584</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1756914060585</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
