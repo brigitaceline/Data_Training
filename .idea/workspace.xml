@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c7ed823-5a47-40e3-b245-3d8c358fec3f" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Files/ANN_SVM.ipynb" afterDir="false" />
+    <list default="true" id="1c7ed823-5a47-40e3-b245-3d8c358fec3f" name="Changes" comment="update and upload new notebook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/.ipynb_checkpoints/data_ver2_with_svm_crossvalidation_ver8-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Files/.ipynb_checkpoints/data_ver2_with_svm_crossvalidation_ver8-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/data_ver2_with_svm_crossvalidation_ver8.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,15 +104,7 @@
       <workItem from="1756149820941" duration="2354000" />
       <workItem from="1756744599693" duration="2310000" />
       <workItem from="1756813109150" duration="2567000" />
-      <workItem from="1756896490705" duration="2778000" />
-    </task>
-    <task id="LOCAL-00005" summary="update">
-      <option name="closed" value="true" />
-      <created>1754408793939</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1754408793939</updated>
+      <workItem from="1756896490705" duration="4760000" />
     </task>
     <task id="LOCAL-00006" summary="update and add duplicate data">
       <option name="closed" value="true" />
@@ -501,7 +490,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756920530767</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="update and upload new notebook">
+      <option name="closed" value="true" />
+      <created>1756921171597</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1756921171597</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,7 +526,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="dalete data ver3 and create a new one" />
     <MESSAGE value="new notebook file ver3" />
     <MESSAGE value="new notebook with matlab algorithm data_ver4" />
     <MESSAGE value="new notebook with layer and neuron various option" />
@@ -554,7 +550,8 @@
     <MESSAGE value="upload and update Mn Mw" />
     <MESSAGE value="upload new notebook" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update and upload new notebook" />
+    <option name="LAST_COMMIT_MESSAGE" value="update and upload new notebook" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject1$Data_training.coverage" NAME="Data training Coverage Results" MODIFIED="1754336212227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
